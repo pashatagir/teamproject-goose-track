@@ -4,9 +4,8 @@
 
 ## Front-end:
 
-- [github pages](https://oleh-kliapko.github.io/GooseTrack_front/)
-- [repository](https://github.com/Oleh-Kliapko/GooseTrack_front)
-- [presentation](https://docs.google.com/presentation/d/1d3g74yDxrd6coeDDiTJY8KJxl7NWfo_Qv926hFcpHFg/edit#slide=id.gd5b15f0a3_5_26)
+- [github pages](https://pashatagir.github.io/teamproject-goose-track/)
+- [repository](https://github.com/pashatagir/teamproject-goose-track)
 
 ## Back-end:
 
